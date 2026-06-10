@@ -1,0 +1,6 @@
+{
+  "name": "Theme Café",
+  "description": "Step Into a World Beyond Coffee. An immersive, modern, and visually stunning website for Theme Café featuring uniquely themed environments, interactive previews, a signature menu showcase, events, and reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
