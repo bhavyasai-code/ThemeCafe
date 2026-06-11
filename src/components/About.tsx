@@ -66,7 +66,7 @@ export default function About() {
             transition={{ delay: 0.2 }}
             className="text-base sm:text-lg text-stone-600 dark:text-stone-300 mt-6 leading-relaxed"
           >
-            Theme Café combines artisan culinary dishes, sensory world-building, live performance, culture, and storytelling. We invite you to dine beyond boundaries and live inside the stories we tell.
+            Lunara Cafe combines artisan culinary dishes, sensory world-building, live performance, culture, and storytelling. We invite you to dine beyond boundaries and live inside the stories we tell.
           </motion.p>
         </div>
 
@@ -96,7 +96,7 @@ export default function About() {
             </div>
             <h3 className="text-xl font-bold text-stone-900 dark:text-stone-100 mb-3">Our Vision</h3>
             <p className="text-stone-600 dark:text-stone-300 leading-relaxed text-sm lg:text-base flex-grow">
-              To inspire the world through experiential dining, establishing Theme Café coordinates in every major cultural center of the planet and serving stories that bind spirits together.
+              To inspire the world through experiential dining, establishing Lunara Cafe coordinates in every major cultural center of the planet and serving stories that bind spirits together.
             </p>
           </motion.div>
 
@@ -122,7 +122,7 @@ export default function About() {
             <div className="lg:col-span-5">
               <span className="text-[#E07A5F] font-mono text-xs font-bold uppercase tracking-wider block mb-2">OUR COMMITMENT</span>
               <h3 className="text-2xl sm:text-3xl font-bold text-stone-900 dark:text-white leading-tight mb-4">
-                What Makes Theme Café Unique?
+                What Makes Lunara Cafe Unique?
               </h3>
               <p className="text-stone-600 dark:text-stone-300 text-sm leading-relaxed mb-6">
                 Most cafes use simple decoration. We practice extreme set architecture. Our design experts work with wood smiths, historians, and actors to realize premium interactive corners.

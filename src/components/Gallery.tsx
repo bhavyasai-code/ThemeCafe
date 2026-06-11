@@ -45,7 +45,7 @@ export default function Gallery() {
             VISUAL STORIES
           </p>
           <h2 className="text-3xl sm:text-5xl font-sans font-bold tracking-tight text-stone-900 dark:text-white">
-            Moments at Theme Café
+            Moments at Lunara Cafe
           </h2>
           <div className="w-16 h-1 bg-[#D4A017] mx-auto mt-5 rounded-full" />
           <p className="text-base text-stone-600 dark:text-stone-300 mt-5">

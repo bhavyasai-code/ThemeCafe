@@ -70,7 +70,7 @@ export default function Navbar({ isDark, setIsDark, openReservationModal }: Navb
             <Coffee className="w-6 h-6" />
           </div>
           <span className="font-sans text-xl font-bold tracking-tight text-white">
-            Theme <span className="text-[#D4A017] group-hover:text-[#E07A5F] transition-colors duration-300">Café</span>
+            Lunara <span className="text-[#D4A017] group-hover:text-[#E07A5F] transition-colors duration-300">Cafe</span>
           </span>
         </a>
 

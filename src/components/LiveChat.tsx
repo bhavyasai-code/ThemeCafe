@@ -20,7 +20,7 @@ export default function LiveChat() {
     {
       id: 'init',
       sender: 'bot',
-      text: "Hello explorer! Welcome to the Theme Café help deck. ☕✨ Let me know if you are curious about our themed layouts, menus, or event reservations!",
+      text: "Hello explorer! Welcome to the Lunara Cafe help deck. ☕✨ Let me know if you are curious about our themed layouts, menus, or event reservations!",
       time: 'Just now'
     }
   ]);
@@ -85,7 +85,7 @@ export default function LiveChat() {
         whileTap={{ scale: 0.95 }}
         className="p-4 rounded-full bg-gradient-to-tr from-[#E07A5F] to-[#D4A017] text-white shadow-lg cursor-pointer flex items-center justify-center relative border border-white/20"
         id="btn-live-chat-toggle"
-        title="Connect with Theme Café Concierge"
+        title="Connect with Lunara Cafe Concierge"
       >
         {isOpen ? <X className="w-6 h-6" /> : <MessageSquare className="w-6 h-6 animate-pulse" />}
         {/* Unread dot indicator */}
@@ -112,7 +112,7 @@ export default function LiveChat() {
                   <Bot className="w-5 h-5" />
                 </div>
                 <div>
-                  <h4 className="font-bold text-xs sm:text-sm">Theme Café Assistant</h4>
+                  <h4 className="font-bold text-xs sm:text-sm">Lunara Cafe Assistant</h4>
                   <p className="text-[10px] text-emerald-450 flex items-center gap-1">
                     <span className="w-1.5 h-1.5 bg-emerald-500 rounded-full" /> Online • Concierge live
                   </p>

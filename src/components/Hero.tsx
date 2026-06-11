@@ -27,7 +27,7 @@ export default function Hero({ openReservationModal }: HeroProps) {
       <div className="absolute inset-0 z-0">
         <img
           src="/src/assets/images/theme_cafe_hero_1781080141836.png"
-          alt="Immersive Theme Cafe Cozy Environment"
+          alt="Immersive Lunara Cafe Cozy Environment"
           className="w-full h-full object-cover opacity-60 scale-105 filter brightness-75 transition-all duration-1000"
           referrerPolicy="no-referrer"
         />

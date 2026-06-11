@@ -44,7 +44,7 @@ export default function Footer() {
                 <Coffee className="w-5 h-5" />
               </div>
               <span className="font-sans text-lg font-bold tracking-tight text-white">
-                Theme <span className="text-[#D4A017]">Café</span>
+                Lunara <span className="text-[#D4A017]">Cafe</span>
               </span>
             </div>
             <p className="text-stone-400 text-xs sm:text-sm leading-relaxed max-w-sm">
@@ -159,7 +159,7 @@ export default function Footer() {
         {/* Bottom Bar: copyright and credentials */}
         <div className="pt-8 border-t border-stone-900 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-stone-500">
           <p>
-            © {new Date().getFullYear()} Theme Café House. All rights reserved. Crafted for sensory adventure.
+            © {new Date().getFullYear()} Lunara Cafe House. All rights reserved. Crafted for sensory adventure.
           </p>
           <div className="flex items-center gap-1 shadow-sm font-medium">
             <span>Made with</span>

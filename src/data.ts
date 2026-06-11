@@ -239,7 +239,7 @@ export const MENU_ITEMS: MenuItem[] = [
   // SIGNATURE SPECIALS
   {
     id: 'ss1',
-    name: 'Theme Café Emperor Thali Cup',
+    name: 'Lunara Cafe Emperor Thali Cup',
     category: 'signatures',
     price: 590,
     description: 'Elegant custom bento-bowl showcasing 3 royal south Indian traditional small eats, fragrant jaggery pudding, and deep traditional organic coffee shot.',
@@ -330,7 +330,7 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     id: 'test3',
     name: 'Ananya Sharma',
-    review: 'Book Lover’s Corner is my perfect new writing shelter. It represents a gorgeous escape from corporate static. The cozy leather sofas, custom reader lamps, and infinite library bookshelves make it incredibly welcoming. Thank you Theme Café for creating such an inspiring sanctuary.',
+    review: 'Book Lover’s Corner is my perfect new writing shelter. It represents a gorgeous escape from corporate static. The cozy leather sofas, custom reader lamps, and infinite library bookshelves make it incredibly welcoming. Thank you Lunara Cafe for creating such an inspiring sanctuary.',
     rating: 5,
     image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=120',
     preferredTheme: 'Book Lover’s Corner',

@@ -34,10 +34,10 @@ export default function Contact() {
   };
 
   const socialLinks = [
-    { name: 'Instagram', label: '@theme.cafe.experience', href: 'https://instagram.com' },
-    { name: 'Facebook', label: 'Theme Cafe Official', href: 'https://facebook.com' },
-    { name: 'YouTube', label: 'Theme Cafe Chronicles', href: 'https://youtube.com' },
-    { name: 'X (Twitter)', label: '@ThemeCafeExp', href: 'https://x.com' }
+    { name: 'Instagram', label: '@lunara.cafe.experience', href: 'https://instagram.com' },
+    { name: 'Facebook', label: 'Lunara Cafe Official', href: 'https://facebook.com' },
+    { name: 'YouTube', label: 'Lunara Cafe Chronicles', href: 'https://youtube.com' },
+    { name: 'X (Twitter)', label: '@LunaraCafeExp', href: 'https://x.com' }
   ];
 
   return (
@@ -113,7 +113,7 @@ export default function Contact() {
                 <div>
                   <p className="text-xs font-mono font-bold text-stone-400 uppercase tracking-wilder">RESERVATIONS EMAIL</p>
                   <p className="text-sm font-medium text-stone-800 dark:text-stone-200 mt-1 hover:text-[#D4A017] transition-colors">
-                    reservations@themecafe.in
+                    reservations@lunaracafe.in
                   </p>
                 </div>
               </div>
@@ -191,7 +191,7 @@ export default function Contact() {
                   </div>
                 </div>
                 <div className="mt-2.5 py-1 px-2.5 rounded-lg bg-stone-900/95 border border-stone-800 text-[10px] font-bold text-white shadow-xl pointer-events-none tracking-tight">
-                  Theme Café House
+                  Lunara Cafe House
                 </div>
               </div>
 
