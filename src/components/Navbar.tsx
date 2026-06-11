@@ -1,10 +1,11 @@
+import logo from "../assets/images/lunara_logo_1781166085216.png";
 /**
  * @license
  * SPDX-License-Identifier: Apache-2.0
  */
 
 import { useState, useEffect } from 'react';
-import { Coffee, Menu, X, Sun, Moon } from 'lucide-react';
+import { Menu, X, Sun, Moon } from 'lucide-react';
 
 interface NavbarProps {
   isDark: boolean;
@@ -68,10 +69,9 @@ export default function Navbar({ isDark, setIsDark, openReservationModal }: Navb
         >
           <div className="w-10 h-10 rounded-full overflow-hidden border border-amber-500/30 transition-transform group-hover:rotate-12 duration-300 shadow-md shrink-0 bg-stone-900 flex items-center justify-center">
             <img
-              src="/src/assets/images/lunara_logo_1781166085216.png"
+              src={logo}
               alt="Lunara Cafe Logo"
               className="w-full h-full object-cover"
-              referrerPolicy="no-referrer"
             />
           </div>
           <span className="font-sans text-xl font-bold tracking-tight text-white">
