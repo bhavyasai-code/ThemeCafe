@@ -40,8 +40,13 @@ export default function Footer() {
           {/* Brand Info */}
           <div className="md:col-span-4 space-y-5">
             <div className="flex items-center gap-2 group">
-              <div className="p-2 rounded-xl bg-gradient-to-tr from-[#E07A5F] to-[#D4A017] text-white">
-                <Coffee className="w-5 h-5" />
+              <div className="w-9 h-9 rounded-full overflow-hidden border border-amber-500/20 shadow-md bg-stone-900 flex items-center justify-center shrink-0">
+                <img
+                  src="/src/assets/images/lunara_logo_1781166085216.png"
+                  alt="Lunara Cafe Logo"
+                  className="w-full h-full object-cover"
+                  referrerPolicy="no-referrer"
+                />
               </div>
               <span className="font-sans text-lg font-bold tracking-tight text-white">
                 Lunara <span className="text-[#D4A017]">Cafe</span>

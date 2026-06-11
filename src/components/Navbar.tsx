@@ -66,8 +66,13 @@ export default function Navbar({ isDark, setIsDark, openReservationModal }: Navb
           className="flex items-center gap-2 group"
           id="logo-brand"
         >
-          <div className="p-2.5 rounded-xl bg-gradient-to-tr from-[#E07A5F] to-[#D4A017] text-white transition-transform group-hover:rotate-12 duration-300 shadow-md">
-            <Coffee className="w-6 h-6" />
+          <div className="w-10 h-10 rounded-full overflow-hidden border border-amber-500/30 transition-transform group-hover:rotate-12 duration-300 shadow-md shrink-0 bg-stone-900 flex items-center justify-center">
+            <img
+              src="/src/assets/images/lunara_logo_1781166085216.png"
+              alt="Lunara Cafe Logo"
+              className="w-full h-full object-cover"
+              referrerPolicy="no-referrer"
+            />
           </div>
           <span className="font-sans text-xl font-bold tracking-tight text-white">
             Lunara <span className="text-[#D4A017] group-hover:text-[#E07A5F] transition-colors duration-300">Cafe</span>
